@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30116005182",
+    "project_id": "cmf-navigate",
+    "storage_bucket": "cmf-navigate.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30116005182:android:0e5916064553bf410a986f",
+        "android_client_info": {
+          "package_name": "com.cmfnavigate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApybWq1lBSRcqHdZvaWpUohZrsQdtXg2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
